@@ -1,0 +1,1 @@
+This is only to have a repository with some exercises that im doing while im learning python
